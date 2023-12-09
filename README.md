@@ -4,6 +4,6 @@ Data is validated for correctness, and the user is prompted to fix any data afte
 ![image](https://github.com/LuisAlanCortes/EmployeeRegistryCRUD/assets/110257548/24954f35-116a-4150-9e42-2bfe62f17690)
 
 Users can prefrom all CRUD utilities from console menu.
-![image](https://github.com/LuisAlanCortes/EmployeeRegistryCRUD/assets/110257548/6ef3869d-95de-4f63-9158-7d94ce21a3e8)
+![image](https://github.com/LuisAlanCortes/EmployeeRegistryCRUD/assets/110257548/33a65aff-9173-431f-a9c1-9b786f9aae1d)
 
 CPP1 Final project. 
