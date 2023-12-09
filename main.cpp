@@ -361,7 +361,7 @@ void processMenu(struct employeeRegistry employees[], bool& sentinel, int menuCh
 
 int main()
 {
-    string registryFileAddress = R"(C:\Users\Cortes\CLionProjects\C1Final\employees.dat)";
+    string registryFileAddress = R"(C:\Users\Cortes\CLionProjects\EmployeeRegistryCRUD\employees.dat)";
     ifstream input;//Open data file
     input.open(registryFileAddress);
     if(!input){//Display error and exit
